@@ -2,6 +2,9 @@
 
 > Fixed missing download instructions in PyTorch's dynamic quantization tutorial during PyTorch Docathon H1 2025
 
+![logo](https://github.com/Ashish-Soni08/pytorch-tutorial-download-fix/blob/main/logo.png)
+
+
 ## 🎯 Problem Solved
 
 The [dynamic quantization tutorial](https://pytorch.org/tutorials/advanced/dynamic_quantization_tutorial.html) assumed users already had the pretrained model file `word_language_model_quantize.pth` but provided no download instructions, leaving users confused about where to get it.
@@ -37,6 +40,6 @@ wget https://s3.amazonaws.com/pytorch-tutorial-assets/word_language_model_quanti
 
 ## 📝 Process Documentation
 
-See [WORKFLOW.md](./WORKFLOW.md) for the complete step-by-step guide on how this contribution was made, including troubleshooting and lessons learned.
+See [workflow.md](https://github.com/Ashish-Soni08/pytorch-tutorial-download-fix/blob/main/workflow.md) for the complete step-by-step guide on how this contribution was made, including troubleshooting and lessons learned.
 
 ---
